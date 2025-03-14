@@ -7,6 +7,7 @@
 - Ignacio Battaglino
 - Santiago Marcos
 - Bautista Rosli
+
 ## Instrucciones de Ejecución
 
 ### Requisitos
