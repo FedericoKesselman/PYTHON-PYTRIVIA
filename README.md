@@ -3,11 +3,10 @@
 ¡Bienvenido al repositorio del proyecto PyTrivia! Este es un juego educativo de trivia desarrollado como parte del trabajo integrador para el Seminario de Lenguajes-Python año 2024.
 
 ## Equipo de Desarrollo
-- [Federico Kesselman](https://gitlab.catedras.linti.unlp.edu.ar/kesselmanfederico)
-- [Ignacio Battaglino](https://gitlab.catedras.linti.unlp.edu.ar/battaglinoignacio)
-- [Santiago Marcos](https://gitlab.catedras.linti.unlp.edu.ar/santiago0105)
-- [Bautista Rosli](https://gitlab.catedras.linti.unlp.edu.ar/roslibautista05)
-
+- Federico Kesselman
+- Ignacio Battaglino
+- Santiago Marcos
+- Bautista Rosli
 ## Instrucciones de Ejecución
 
 ### Requisitos
